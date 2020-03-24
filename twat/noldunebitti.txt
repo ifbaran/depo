@@ -1,8 +1,4 @@
-karartýlmýþ arkaplan resmi üzerine:
+kayýt ol kutusu eklendi:
+(form doldurup, ya da sosyal medya ile baðlanarak)
 
-	kayýt ol kutusu eklendi:
-	(form doldurup, ya da sosyal
-	medya ile baðlanarak)
-	
-	!! buton efektleri saçma
-	(sola uzamasýný bir þey engelliyor)
+logo eklendi.
